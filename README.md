@@ -13,7 +13,7 @@ House sales
 4. run 4a-hp-listings to create plots for Days on the Market and active listings
 
 Apartment rents
-1.run 1b-ap-rent to create dataset and remove irrelevant variables and preparation for analysis. 
+1. run 1b-ap-rent to create dataset and remove irrelevant variables and preparation for analysis. 
 2. run 2b-ap-rent-sale to create the hedonic price index for houses for sale
 3. run 4b-ap-listings to create plots for Days on the Market and active listings
 
